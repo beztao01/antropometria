@@ -1,4 +1,4 @@
-# antropometria
+# Antropometría y Locomoción Digital
 
 ## Ingeniería en Animacion e Interactividad
 Un sitio académico.
